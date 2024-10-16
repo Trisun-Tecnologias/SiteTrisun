@@ -28,7 +28,7 @@
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #eb5d1e;
+  color: #FCB839;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -73,7 +73,7 @@
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #eb5d1e;
+  color: #FCB839;
   margin: 0 4px;
   font-size: 18px;
   line-height: 1;
@@ -93,7 +93,7 @@
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  background: #eb5d1e;
+  background: #FCB839;
   color: #fff;
 }
 
