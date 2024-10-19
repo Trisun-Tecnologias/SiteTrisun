@@ -133,3 +133,213 @@
   opacity: 1;
   bottom: 0;
 }
+
+/*--------------------------------------------------------------
+# OUR TEAM
+--------------------------------------------------------------*/
+
+.slider_section .detail-box {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.slider_section .detail-box h1 {
+  text-transform: uppercase;
+  font-size: 3rem;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.slider_section .detail-box h1 span {
+  color: #f1db25;
+}
+
+.slider_section .detail-box p {
+  margin-top: 25px;
+}
+
+.slider_section .detail-box .btn-box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 30px;
+}
+
+.slider_section .detail-box .btn-box a {
+  width: 180px;
+  text-align: center;
+  margin: 5px;
+}
+
+.slider_section .detail-box .btn-box .btn-1 {
+  display: inline-block;
+  padding: 10px 35px;
+  background-color: #ffffff;
+  color: #000000;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  border: 1px solid transparent;
+}
+
+.slider_section .detail-box .btn-box .btn-1:hover {
+  background-color: transparent;
+  border-color: #ffffff;
+  color: #ffffff;
+}
+
+.slider_section .detail-box .btn-box .btn-2 {
+  display: inline-block;
+  padding: 10px 35px;
+  background-color: #f1db25;
+  color: #ffffff;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  border: 1px solid transparent;
+}
+
+.slider_section .detail-box .btn-box .btn-2:hover {
+  background-color: transparent;
+  border-color: #f1db25;
+  color: #f1db25;
+}
+
+.about_section .detail-box {
+  background-color: #ffffff;
+  padding: 45px 25px;
+  -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.05);
+          box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.05);
+  position: relative;
+  margin-left: -45px;
+}
+
+.about_section .detail-box p {
+  margin-top: 5px;
+}
+
+.about_section .detail-box a {
+  display: inline-block;
+  padding: 10px 35px;
+  background-color: #f1db25;
+  color: #ffffff;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  border: 1px solid transparent;
+  text-transform: uppercase;
+}
+
+.about_section .detail-box a:hover {
+  background-color: transparent;
+  border-color: #f1db25;
+  color: #f1db25;
+}
+
+.service_section .box .detail-box {
+  margin-top: 25px;
+}
+
+.service_section .box .detail-box h6 {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.service_section .box .detail-box a {
+  display: inline-block;
+  padding: 8px 35px;
+  background-color: #f1db25;
+  color: #ffffff;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  border: 1px solid transparent;
+  margin-top: 10px;
+}
+
+.service_section .box .detail-box a:hover {
+  background-color: transparent;
+  border-color: #f1db25;
+  color: #f1db25;
+}
+
+.client_section .box .detail-box h4 {
+  font-weight: bold;
+  font-size: 18px;
+  padding: 0 10px;
+  border-bottom: 1px solid #ffffff;
+}
+
+.client_section .box .detail-box p {
+  margin-top: 10px;
+}
+
+.team_section .box .detail-box {
+  position: absolute;
+  width: 100%;
+  color: #ffffff;
+  padding: 25px 15px;
+  text-align: center;
+  bottom: 0;
+  background-color: rgba(28, 28, 28, 0.75);
+}
+
+.team_section .box .img-box {
+  width: 100%;
+}
+
+.team_section .box .img-box img {
+  width: 100%;
+}
+
+.contact_bg_box .img-box {
+  width: 100%;
+}
+
+.contact_bg_box .img-box img {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.about_section .img_container .img-box img {
+  width: 100%;
+}
+
+.team_section .box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  overflow: hidden;
+  margin-top: 45px;
+  position: relative;
+}
+
+.team_section .box .img-box {
+  width: 100%;
+}
+
+.team_section .box .img-box img {
+  width: 100%;
+}
+
+.team_section .box .detail-box {
+  position: absolute;
+  width: 100%;
+  color: #ffffff;
+  padding: 25px 15px;
+  text-align: center;
+  bottom: 0;
+  background-color: rgba(28, 28, 28, 0.75);
+}
+
+.detail-box h5{
+font-family:"Oswald",sans-serif;color:#ffffff;margin-top:0px;font-style:normal;font-weight:500;text-transform:normal
+
+} 
+
+.detail-box h6{
+  font-family:"Oswald",sans-serif;color:#FCB839;margin-top:0px;font-style:normal;font-weight:500;text-transform:normal
+  
+  } 
