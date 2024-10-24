@@ -343,3 +343,27 @@ font-family:"Oswald",sans-serif;color:#ffffff;margin-top:0px;font-style:normal;f
   font-family:"Oswald",sans-serif;color:#FCB839;margin-top:0px;font-style:normal;font-weight:500;text-transform:normal
   
   } 
+
+  .slider-height3{
+    height:100px
+  }
+  @media only screen and (min-width: 1200px) and (max-width: 1600px){
+    .slider-height3{
+      height:100px
+    }
+  }
+  @media only screen and (min-width: 768px) and (max-width: 991px){
+    .slider-height3{
+      height:130px
+    }
+  }
+  @media only screen and (min-width: 576px) and (max-width: 767px){
+    .slider-height3{
+      height:130px
+    }
+  }
+  @media (max-width: 575px){
+    .slider-height3{
+      height:130px
+    }
+  }
